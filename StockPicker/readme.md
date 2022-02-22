@@ -1,4 +1,6 @@
-original approach was this
+# Stock Picker
+
+<!-- original approach was this -->
 
 <!-- def stock_picker(prices)
     max_profit = 0
