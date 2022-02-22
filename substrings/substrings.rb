@@ -1,5 +1,6 @@
 # substrings
 
+
 dictionary = ["below","down","go","going", "be", "be", "horn","how","howdy","it","i","low","own","part","partner","sit"]
 
 def substrings(strings, dictionary)
